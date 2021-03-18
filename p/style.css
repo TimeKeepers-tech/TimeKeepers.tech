@@ -11,3 +11,8 @@ html > .dg,
 body > .dg {
   display: none;
 }
+@media only screen and (max-width: 600px) {
+  #particle-slider {
+    display: none;
+  }
+}
