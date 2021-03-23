@@ -1,4 +1,4 @@
-/**
+  /**
 * Template Name: FlexStart - v1.1.1
 * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 * Author: BootstrapMade.com
@@ -1306,7 +1306,7 @@ section {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  border-radius: 50%;
+  b/*order-radius: 50%;*/
   border: 4px solid #fff;
   margin: 0 auto;
 }
